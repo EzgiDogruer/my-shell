@@ -6,7 +6,6 @@
 
 ### Group members :
 
-- Ezgi Doğruer
 - İsra Nur Alperen
 - Elif Gökpınar
 
